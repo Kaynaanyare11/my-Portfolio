@@ -1,13 +1,13 @@
 import { BsFiletypeHtml, BsFiletypeCss, BsBootstrap } from "react-icons/bs";
 import { FaNodeJs } from "react-icons/fa";
-import { TbBrandNextjs } from "react-icons/tb";
+
 import {
   SiJavascript,
   SiMui,
   SiReact,
   SiTailwindcss,
   SiFigma,
-  SiAdobexd,
+
   SiAdobeillustrator,
   SiAdobepremierepro,
   SiAdobephotoshop,
@@ -16,11 +16,9 @@ import {
   SiTypescript,
   SiGithub,
   SiWordpress,
-  SiFirebase,
-  SiDocker,
+
   SiExpress,
-  SiNginx,
-  SiAngular,
+
   SiOracle,
   SiNestjs,
 } from "react-icons/si";
