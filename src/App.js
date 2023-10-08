@@ -17,10 +17,10 @@ import "react-toastify/dist/ReactToastify.css";
 function App() {
   const [theme] = useTheme();
   return (
-    <>
+    <div>
       <div id={theme}>
-        <ToastContainer />
-        <MobileNav />
+        <ToastContainer></ToastContainer>
+        <MobileNav ></MobileNav>
         <Layout></Layout>
         <div className='container'>
           <About />
@@ -45,7 +45,7 @@ function App() {
         color="#f29f67"
         style={{ backgroundColor: "#1e1e2c", borderRadius: "80px" }}
       />
-    </>
+    </div>
   )
 }
 
