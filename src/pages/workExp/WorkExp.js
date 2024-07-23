@@ -22,18 +22,18 @@ const WorkExp = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="2022-2023"
+              date="2021-2023"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-                Digital marketing, Graphic design
+                Digital marketing
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
-                Dacar nutrition and medica collage
+                Raadsan wholesale company
               </h4>
               <p>
-                Design directores work with creative teams to
+                Digital marketing director work with creative teams to
                 design and produce the visual layout.
               </p>
             </VerticalTimelineElement>
@@ -43,19 +43,19 @@ const WorkExp = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="2022-2023"
+              date="2020-2022"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-                Digital marketing, Graphic design
+                Full Stack Developer
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
-                Royal nutrition and medica collage
+                Negaad Inistitute of Technology
               </h4>
               <p>
-                Design directores work with creative teams to
-                design and produce the visual layout.
+                full Stack Developer works with creative teams to
+                design and Develop the Softwares with the deadline and planned budget.
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement

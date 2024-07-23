@@ -19,20 +19,20 @@ const Education = () => {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="March2022"
+            date="2023"
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >
-            <h3 className="vertical-timeline-element-title">Diploma Graphic Design Certificate</h3>
+            <h3 className="vertical-timeline-element-title">Bachelor Degree of Computer Science</h3>
             <h4 className="vertical-timeline-element-subtitle">
-              Somali Degital Media Academy SODMA, SO
+              Somali International University, SO
             </h4>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="Sep2022"
+            date="2022"
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >
@@ -47,7 +47,7 @@ const Education = () => {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="Dec2022"
+            date="2022"
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >
@@ -61,7 +61,7 @@ const Education = () => {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="Abril2023"
+            date="2023"
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >
@@ -75,13 +75,26 @@ const Education = () => {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="July2023"
+            date="2023"
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >
             <h3 className="vertical-timeline-element-title">Diploma Figma Design Certificate</h3>
             <h4 className="vertical-timeline-element-subtitle">
               Kahie tech, SO
+            </h4>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "black" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="2024"
+            iconStyle={{ background: "#138781", color: "#fff" }}
+            icon={<MdSchool />}
+          >
+            <h3 className="vertical-timeline-element-title">One Year of Internship</h3>
+            <h4 className="vertical-timeline-element-subtitle">
+              Mbarara University Science and technology, Uganda
             </h4>
           </VerticalTimelineElement>
 

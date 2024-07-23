@@ -32,7 +32,7 @@ function App() {
         </div>
         <div className="footer pb-3 ms-3">
           <Tada>
-            <h4 className="text-center">Made With 😍 Mahad Bulle &copy; 2023</h4>
+            <h4 className="text-center">Made With 😍 Mohamed Abdulkadir &copy; 2024</h4>
           </Tada>
         </div>
       </div>

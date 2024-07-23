@@ -42,7 +42,7 @@ const MobileNav = () => {
             />
           )}
 
-          <span className="mobile-nav-title">Mahad Buulle</span>
+          <span className="mobile-nav-title">Mohamed Abdulkadir</span>
         </div>
         {open && (
           <div className="mobile-nav-menu">

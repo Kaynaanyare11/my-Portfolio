@@ -1,7 +1,7 @@
 import React from "react";
 import { useTheme } from "../../context/ThemeContext";
 import Typewriter from "typewriter-effect";
-import MyCVMahad from "../../assets/docs/MyCVMahad.pdf";
+import MohamedCV from "../../assets/docs/My Full CV.pdf";
 import { BsFillMoonStarsFill, BsFillSunFill } from "react-icons/bs";
 import "./home.css";
 import Fade from "react-reveal/Fade";
@@ -43,13 +43,13 @@ const Home = () => {
             <div className="home-buttons">
               <a
                 className="btn btn-hire"
-                href="https://api.whatsapp.com/send?phone=618581750"
+                href="https://api.whatsapp.com/send?phone=617372949"
                 rel="noreferrer"
                 target="_blank"
               >
                 Hire Me
               </a>
-              <a className="btn btn-cv" href={MyCVMahad} download="MyCVMahad.pdf">
+              <a className="btn btn-cv" href={MohamedCV} download="MohamedCV.pdf">
                 My Resume
               </a>
             </div>
